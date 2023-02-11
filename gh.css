@@ -1,0 +1,96 @@
+header{
+background-color: white;
+overflow: auto;
+
+}
+
+header img {
+
+padding-right: 5px;
+
+}
+
+.headline
+{   
+    background-color:rgb(255, 250, 214);
+    padding-right: 10;
+    text-align: center;
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+overflow: auto;
+}
+
+
+.main{
+
+background-color:white ;
+text-align: center;
+overflow: auto;
+}
+
+.main p
+{
+padding-bottom: 10px;
+padding-top: 10px;
+font-size: 20px;
+font-weight: 500;
+font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+#q1 { color:rgb(233, 119, 119);}
+#q2 {color:rgb(233, 119, 119);}
+#q3 { color:rgb(233, 119, 119);}
+#q4 {color:rgb(233, 119, 119) ;}
+#q5 {color:rgb(233, 119, 119);}
+#q6 {color:rgb(233, 119, 119);}
+
+
+
+
+.footer
+{
+    background-color: rgb(255, 250, 214) ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+overflow: auto;
+font-size: 16px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
